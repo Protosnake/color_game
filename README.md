@@ -8,4 +8,4 @@ There are two game modes:
 
 # Demo
 
-![Alt text](/demo/colorgame.png?raw=true "The game itself")
+![](/demo/colorgame.png?raw=true "The game itself")
