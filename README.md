@@ -1,4 +1,4 @@
-# hexidecimal_color_game
+# color_game
 
 To win in hexidecimal color game you need to guess a color by its RGB code.
 
